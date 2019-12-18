@@ -1,2 +1,2 @@
-# Adavanced-Programming---Everything-and-Anyhting-you-might-want
+# Adavanced-Programming---Everything-and-Anything-you-might-want
 Advanced Programming Assignment 3
